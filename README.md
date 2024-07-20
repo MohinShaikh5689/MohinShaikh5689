@@ -26,6 +26,7 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohinShaikh5689&theme=rose_pine&hide_border=false)<br/>
@@ -34,8 +35,9 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ## 💬 Quote
-"Code is like humor. When you have to explain it, it’s bad." - *Cory House*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohinShaikh5689&icon=0&color=0)](https://visitcount.itsvg.in)
