@@ -10,7 +10,7 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohin-shaikh-26a75b285/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohinshaikh5689)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohinshaikh5689)<br><br>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohinShaikh5689)
 
 ## 🛠️ Skills
