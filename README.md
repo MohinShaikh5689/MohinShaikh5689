@@ -31,7 +31,7 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 ![](https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohinShaikh5689&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=rose_pine&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
