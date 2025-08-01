@@ -1,49 +1,85 @@
 <div align="center">
 
-# Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
-
-## 🚀 About Me
-Hi, I'm **Mohin Shaikh**! 👋<br>
-A passionate developer with a knack for creating innovative solutions. I'm constantly learning and exploring new technologies.
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohin-shaikh-26a75b285/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohinshaikh5689)<br><br>
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohinShaikh5689)
-
-## 🛠️ Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-## 📅 GitHub Contribution Graph
-![Mohin's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohinShaikh5689&theme=github)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohinShaikh5689&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=rose_pine&hide_border=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 💬 Quote
-"Code is like humor. When you have to explain it, it’s bad." - *Cory House*
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Mohin%20Shaikh!&fontSize=30&fontAlign=40&fontColor=ffffff)
 
 ---
+
+### 💻 Full-Stack Developer | 🚀 Tech Explorer | 🧠 Lifelong Learner
+
+A passionate developer with a knack for crafting clean, efficient solutions.  
+Always curious, always building — from REST APIs to dynamic UIs and everything in between.
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohin-shaikh-26a75b285/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohinshaikh5689)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohinShaikh5689)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚧 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### 🧠 Tools & Runtimes
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+#### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 📅 GitHub Contribution Heatmap
+
+![Mohin's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohinShaikh5689&theme=github)
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&show_icons=true&theme=rose_pine&hide_border=false" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohinShaikh5689&theme=rose_pine&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohinShaikh5689&layout=compact&theme=rose_pine&hide_border=false" height="150"/>
+
+---
+
+### 🧠 WakaTime (Coding Stats)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=rose_pine&hide_border=false)
+
+---
+
+### 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 💬 Favorite Quote
+
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+> — Cory House
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=MohinShaikh5689&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
