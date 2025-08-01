@@ -8,9 +8,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Create output directory
+        run: mkdir -p dist
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
