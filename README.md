@@ -149,6 +149,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohinShaikh5689&theme=tokyonight" width="100%"/>
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MohinShaikh5689/MohinShaikh5689/output/snake.svg" alt="Snake animation" />
+</div>
+
 ### ⏱️ Coding Time
 
 <div align="center">
