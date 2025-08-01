@@ -26,6 +26,8 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+## 📈 Contribution Heatmap
+[![Mohin's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohinShaikh5689&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -33,10 +35,8 @@ A passionate developer with a knack for creating innovative solutions. I'm const
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohinShaikh5689&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=rose_pine&hide_border=false)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## 💬 Quote
 "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
