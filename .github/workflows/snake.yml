@@ -2,18 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 0 * * *"  # runs every day at midnight
+  workflow_dispatch:      # allows you to trigger manually
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          ref: main
-          fetch-depth: 0
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
@@ -21,18 +18,13 @@ jobs:
           github_user_name: MohinShaikh5689
           outputs: dist/snake.svg
 
-      - name: Move snake.svg to repo root
+      - name: Push the file to the main branch
         run: |
-          mkdir -p temp
-          mv dist/snake.svg temp/snake.svg
-
-      - name: Commit and Push snake.svg to main branch
-        run: |
-          mv temp/snake.svg snake.svg
+          mv dist/snake.svg snake.svg
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add snake.svg
-          git commit -m "🔁 Update contribution snake" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Add generated snake.svg"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
