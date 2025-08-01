@@ -18,11 +18,15 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
 ```json
 {
   "name": "Mohin Shaikh",
   "role": "Full Stack Developer",
-  "location": "India",
+  "location": "India 🇮🇳",
   "experience": "Building scalable web applications",
   "passion": ["Clean Code", "Problem Solving", "Learning"],
   "currentlyLearning": ["Advanced React Patterns", "Microservices", "Cloud Architecture"],
@@ -31,13 +35,10 @@
   "languages": ["JavaScript", "TypeScript", "SQL"],
   "frameworks": ["React", "Node.js", "Express", "Next.js"],
   "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-  "tools": ["Git", "Docker", "Postman", "VS Code"]
+  "tools": ["Git", "Docker", "Postman", "VS Code"],
+  "motto": "Code with purpose, debug with patience, deploy with confidence! ✨"
 }
 ```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
 
 ---
 
@@ -61,10 +62,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
-### 🚀 Frontend Technologies
+### 🌟 Frontend Magic
 
 <div align="center">
-
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,7 +77,7 @@
 
 </div>
 
-### ⚡ Backend Technologies
+### ⚡ Backend Power
 
 <div align="center">
 
@@ -89,7 +90,7 @@
 
 </div>
 
-### 💾 Databases & Storage
+### 🗄️ Database Mastery
 
 <div align="center">
 
@@ -101,7 +102,7 @@
 
 </div>
 
-### 🔧 Tools & DevOps
+### 🚀 DevOps & Tools
 
 <div align="center">
 
@@ -143,7 +144,7 @@
 </table>
 </div>
 
-### 📅 Contribution Activity
+### 📅 Contribution Heatmap
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohinShaikh5689&theme=tokyonight" width="100%"/>
@@ -155,7 +156,7 @@
 <img src="https://raw.githubusercontent.com/MohinShaikh5689/MohinShaikh5689/output/snake.svg" alt="Snake animation" />
 </div>
 
-### ⏱️ Coding Time
+### ⏱️ Coding Activity
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact"/>
@@ -163,7 +164,7 @@
 
 ---
 
-## 🏆 Achievement Gallery
+## 🏆 Achievement Showcase
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
@@ -175,24 +176,40 @@
 
 ---
 
-## 💬 Philosophy & Quotes
+## 💭 Developer Philosophy
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — Cory House
-
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
-
-> *"Clean code always looks like it was written by someone who cares."*  
-> — Robert C. Martin
+```json
+{
+  "philosophy": {
+    "code_quality": "Clean code is not written by following a set of rules. Clean code is written by someone who cares.",
+    "problem_solving": "Every problem is an opportunity to learn something new and create something better.",
+    "continuous_learning": "In the world of technology, those who stop learning become obsolete.",
+    "collaboration": "Great things in business are never done by one person, they're done by a team of people."
+  },
+  "favorite_quotes": [
+    {
+      "quote": "Code is like humor. When you have to explain it, it's bad.",
+      "author": "Cory House"
+    },
+    {
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "quote": "Clean code always looks like it was written by someone who cares.",
+      "author": "Robert C. Martin"
+    }
+  ]
+}
+```
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Build Something Amazing!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
@@ -200,21 +217,24 @@
 
 ```json
 {
-  "open_to": {
-    "freelance_projects": true,
-    "full_time_opportunities": true,
-    "open_source_contributions": true,
-    "mentoring": true,
-    "speaking_engagements": false
+  "collaboration_status": {
+    "freelance_projects": "✅ Available",
+    "full_time_opportunities": "✅ Open to discuss",
+    "open_source_contributions": "✅ Always ready",
+    "mentoring": "✅ Love to help",
+    "speaking_engagements": "❌ Not currently"
   },
-  "expertise_areas": [
-    "Full Stack Development",
-    "API Design & Development",
-    "Database Architecture",
-    "Performance Optimization",
-    "Code Review & Mentoring"
+  "expertise_offering": [
+    "🚀 Full Stack Development",
+    "🔧 API Design & Development", 
+    "🏗️ Database Architecture",
+    "⚡ Performance Optimization",
+    "👥 Code Review & Mentoring",
+    "🔍 Technical Consulting"
   ],
-  "contact_preference": "LinkedIn or Email"
+  "preferred_contact": ["LinkedIn", "Email"],
+  "response_time": "Within 24 hours",
+  "timezone": "IST (UTC+5:30)"
 }
 ```
 
@@ -222,23 +242,16 @@
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+### 🌟 Thanks for stopping by!
 
-## 🐍 Contribution Snake
+<img src="https://komarev.com/ghpvc/?username=MohinShaikh5689&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-![Snake animation](https://raw.githubusercontent.com/MohinShaikh5689/MohinShaikh5689/main/snake.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-
-
-
-</div>
-
----
-
-<div align="center">
+**✨ "Code is poetry written in logic" ✨**
 
 **⭐ Star some repositories if you find them interesting!**
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
