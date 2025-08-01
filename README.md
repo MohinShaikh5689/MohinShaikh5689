@@ -224,9 +224,10 @@
 
 ### 🌟 Thanks for visiting my profile!
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/MohinShaikh5689/MohinShaikh5689/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MohinShaikh5689/MohinShaikh5689/main/snake.svg)
+
 
 
 
