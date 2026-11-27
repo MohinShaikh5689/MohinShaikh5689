@@ -1,257 +1,86 @@
-# 👨‍💻 Mohin Shaikh — Full Stack Developer
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey!%20I'm%20Mohin%20Shaikh&fontSize=32&fontAlign=50&fontColor=ffffff)
-
 <div align="center">
 
-### 🧠 Passionate Problem Solver | 💻 Code Craftsman | 📈 Always Leveling Up
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,55:3b0f22,100:ff375f&height=230&section=header&text=Mohin%20Shaikh&fontSize=64&fontColor=f4f1ea&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%C2%B7%20AttoWorks%20%C2%B7%20Mumbai&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mohin Shaikh, Full-Stack AI Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+%26+Frontend+Expert;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=FF375F&center=true&vCenter=true&width=640&height=40&lines=Voice+agents+that+answer+the+phone;Document+AI+reading+16%2C000%2B+scans+a+month;My+own+apps+on+iOS+and+Android;God+of+War+III%2C+running+on+an+iPhone" alt="Voice agents, document AI, my own apps, God of War III on an iPhone" />
+
+<br/>
+
+<a href="https://mohinshaikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff375f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohin-shaikh-2560133b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohin.shaikh5689@gmail.com"><img src="https://img.shields.io/badge/Email-1f1f23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<br/>
 
----
+## 🎙️ At work: AI that answers the phone and reads the paperwork
 
-## 🚀 About Me
+I build a **real-time voice agent** that books and cancels appointments through tool calls, with a **check-before-write guard** that confirms every write with the caller first. I also work on an **intelligent document processing** pipeline that digitizes scans while keeping their layout, pulling from Drive and Gmail and posting to Sheets and Tally.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
-```json
-{
-  "name": "Mohin Shaikh",
-  "role": "Full Stack Developer",
-  "location": "India 🇮🇳",
-  "experience": "Building scalable web applications",
-  "passion": ["Clean Code", "Problem Solving", "Learning"],
-  "currentlyLearning": ["Advanced React Patterns", "Microservices", "Cloud Architecture"],
-  "funFact": "I debug like Sherlock and code like an artist 🎨",
-  "availableForWork": true,
-  "languages": ["JavaScript", "TypeScript", "SQL"],
-  "frameworks": ["React", "Node.js", "Express", "Next.js"],
-  "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-  "tools": ["Git", "Docker", "Postman", "VS Code"],
-  "motto": "Code with purpose, debug with patience, deploy with confidence! ✨"
-}
-```
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohin-shaikh-26a75b285/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohinshaikh5689)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohinShaikh5689)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
-### 🌟 Frontend Magic
-
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### ⚡ Backend Power
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-</div>
-
-### 🗄️ Database Mastery
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-### 🚀 DevOps & Tools
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
-
-</div>
-
----
-
-## 📊 Development Stats
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-### 📈 GitHub Analytics
-
-<div align="center">
 <table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohinShaikh5689&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="165"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohinShaikh5689&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" height="165"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohinShaikh5689&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="top" width="25%"><h1>223</h1><sub>test calls handled end to end</sub></td>
+    <td align="center" valign="top" width="25%"><h1>106</h1><sub>bookings completed by voice</sub></td>
+    <td align="center" valign="top" width="25%"><h1>1,497</h1><sub>tool calls made</sub></td>
+    <td align="center" valign="top" width="25%"><h1>16k+</h1><sub>documents processed a month</sub></td>
+  </tr>
 </table>
-</div>
 
-### 📅 Contribution Heatmap
+## 📱 Apps I shipped, iOS and Android
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohinShaikh5689&theme=tokyonight" width="100%"/>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="assets/tactus-player.webp" width="210" alt="Tactus now playing screen" /><br/>
+      <h3>Tactus</h3>
+      <sub>Music streaming with synced karaoke lyrics and translation, offline downloads and a liquid-glass UI.</sub><br/><br/>
+      <code>React Native</code> <code>Expo</code> <code>Supabase</code>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="assets/tsuzuku-home.webp" width="210" alt="Tsuzuku home screen" /><br/>
+      <h3>Tsuzuku 続く</h3>
+      <sub>Anime, manga and manhwa tracker that pings you the moment a new episode or chapter drops.</sub><br/><br/>
+      <code>Expo</code> <code>Jikan API</code> <code>Expo Notifications</code>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="assets/readverse-book.webp" width="210" alt="ReadVerse book detail screen" /><br/>
+      <h3><a href="https://github.com/MohinShaikh5689/Readverse-mobile-app">ReadVerse</a></h3>
+      <sub>Multilingual reading app for books, manga and manhwa, with its own <a href="https://github.com/MohinShaikh5689/Read-Verse-backend">API</a> and admin panel.</sub><br/><br/>
+      <code>React Native</code> <code>Fastify</code> <code>Prisma</code>
+    </td>
+  </tr>
+</table>
 
-### 🐍 Contribution Snake
+## 🎮 God of War III, running natively on an iPhone
 
-<div align="center">
-<img src="https://github.com/MohinShaikh5689/MohinShaikh5689/blob/main/snake.svg" alt="Snake animation" />
-</div>
+<a href="https://github.com/MohinShaikh5689/god-of-war-3-ios"><img src="assets/gow3-gameplay.webp" width="100%" alt="God of War III running on an iPhone 17 with on-screen controls" /></a>
 
-### ⏱️ Coding Activity
+**[Project Olympus](https://github.com/MohinShaikh5689/god-of-war-3-ios)** is a native iOS port of the PS4 game, not an emulator. The game's x86-64 code is translated to ARM64 at runtime by FEXCore, a custom runtime replaces the PS4 system libraries, and shadPS4's renderer runs Vulkan on Metal. It hits about **30 FPS on an iPhone 17**, sideloaded, no jailbreak.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact"/>
-</div>
+## 🧪 Also building
 
----
+| Project | What it does |
+| --- | --- |
+| 🤖 **[Mobile Agent](https://github.com/MohinShaikh5689/Mobile-Agent)** · *in development* | A personal agent built to run entirely on the phone with a local llama.cpp model and LangGraph.js, answering across Gmail, Drive and Calendar, with approval cards before any write. |
+| 🎫 **[Aegis Support Hub](https://github.com/MohinShaikh5689/ticket-frontend)** | Support tickets triaged by Gemini, with an AI copilot panel. Fastify + Prisma + Supabase [API](https://github.com/MohinShaikh5689/ticket-backend). |
+| 🕹️ **Nexus Game Launcher** | Native desktop launcher with achievements, a Big Picture mode and cloud backup. Tauri + React. |
 
-## 🏆 Achievement Showcase
+## 🛠️ Tools I use
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,nodejs,fastapi,nestjs,express&theme=dark" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Node.js, FastAPI, NestJS, Express" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,tailwind,vite,git,githubactions,aws,vercel&theme=dark" alt="PostgreSQL, Prisma, Supabase, MongoDB, Tailwind, Vite, Git, GitHub Actions, AWS, Vercel" />
+</p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohinShaikh5689&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-</div>
+<p align="center"><sub><b>AI & voice:</b> LangChain · LangGraph · OpenAI SDK · Gemini · Pipecat · Silero VAD · Soniox · ElevenLabs &nbsp;|&nbsp; <b>Mobile:</b> React Native · Expo · Tauri</sub></p>
 
----
-
-## 💭 Developer Philosophy
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-```json
-{
-  "philosophy": {
-    "code_quality": "Clean code is not written by following a set of rules. Clean code is written by someone who cares.",
-    "problem_solving": "Every problem is an opportunity to learn something new and create something better.",
-    "continuous_learning": "In the world of technology, those who stop learning become obsolete.",
-    "collaboration": "Great things in business are never done by one person, they're done by a team of people."
-  },
-  "favorite_quotes": [
-    {
-      "quote": "Code is like humor. When you have to explain it, it's bad.",
-      "author": "Cory House"
-    },
-    {
-      "quote": "First, solve the problem. Then, write the code.",
-      "author": "John Johnson"
-    },
-    {
-      "quote": "Clean code always looks like it was written by someone who cares.",
-      "author": "Robert C. Martin"
-    }
-  ]
-}
-```
-
----
-
-## 🤝 Let's Build Something Amazing!
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+  <img src="snake.svg" width="100%" alt="Contribution snake" />
+  <br/><br/>
+  <sub>BSc IT, Somaiya Vidyavihar University · Previously Full-Stack Developer Intern at Nosis (UAE)</sub>
 </div>
 
-```json
-{
-  "collaboration_status": {
-    "freelance_projects": "✅ Available",
-    "full_time_opportunities": "✅ Open to discuss",
-    "open_source_contributions": "✅ Always ready",
-    "mentoring": "✅ Love to help",
-    "speaking_engagements": "❌ Not currently"
-  },
-  "expertise_offering": [
-    "🚀 Full Stack Development",
-    "🔧 API Design & Development", 
-    "🏗️ Database Architecture",
-    "⚡ Performance Optimization",
-    "👥 Code Review & Mentoring",
-    "🔍 Technical Consulting"
-  ],
-  "preferred_contact": ["LinkedIn", "Email"],
-  "response_time": "Within 24 hours",
-  "timezone": "IST (UTC+5:30)"
-}
-```
-
----
-
-<div align="center">
-
-### 🌟 Thanks for stopping by!
-
-<img src="https://komarev.com/ghpvc/?username=MohinShaikh5689&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**✨ "Code is poetry written in logic" ✨**
-
-**⭐ Star some repositories if you find them interesting!**
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff375f,45:3b0f22,100:0b0b0c&height=110&section=footer" width="100%" alt="" />
